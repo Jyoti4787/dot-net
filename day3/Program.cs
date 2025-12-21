@@ -163,7 +163,9 @@ class Program
 
         void PrintMsg()
         {
+            
             Console.WriteLine(status);
+            onsole.WriteLine(status);
         }
 
         PrintMsg();
