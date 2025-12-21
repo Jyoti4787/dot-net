@@ -1,0 +1,14 @@
+/home/vairagi/Desktop/New Folder/dot net/day2/bin/Debug/net8.0/day2
+/home/vairagi/Desktop/New Folder/dot net/day2/bin/Debug/net8.0/day2.deps.json
+/home/vairagi/Desktop/New Folder/dot net/day2/bin/Debug/net8.0/day2.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/day2/bin/Debug/net8.0/day2.dll
+/home/vairagi/Desktop/New Folder/dot net/day2/bin/Debug/net8.0/day2.pdb
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/day2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/day2.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/day2.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/day2.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/day2.dll
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/refint/day2.dll
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/day2.pdb
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/day2.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/day2/obj/Debug/net8.0/ref/day2.dll
