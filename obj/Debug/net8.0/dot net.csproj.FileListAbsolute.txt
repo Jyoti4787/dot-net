@@ -12,3 +12,4 @@
 /home/vairagi/Desktop/New Folder/dot net/obj/Debug/net8.0/dot net.pdb
 /home/vairagi/Desktop/New Folder/dot net/obj/Debug/net8.0/dot net.genruntimeconfig.cache
 /home/vairagi/Desktop/New Folder/dot net/obj/Debug/net8.0/ref/dot net.dll
+/home/vairagi/Desktop/New Folder/dot net/obj/Debug/net8.0/dot net.sourcelink.json

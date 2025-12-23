@@ -66,7 +66,7 @@
 
 //  }
 
-using System;
+//using System;
 
 // class Calculator
 // {
@@ -153,7 +153,7 @@ using System;
 // }
 // }
 
-using System;
+//using System;
 
 // class Program
 // {
@@ -176,113 +176,117 @@ using System;
 //     }
 // }
 
-using System;
+// using System;
 
-class BankAccount
-{
-    private int accountNo;
-    private double balance;
+// class BankAccount
+// {
+//     private int accountNo;
+//     private double balance;
 
-    public static string BankName = "State Bank of India";
+//     public static string BankName = "State Bank of India";
 
-    // Constructor
-    public BankAccount(int accNo, double initialBalance)
-    {
-        accountNo = accNo;
-        balance = initialBalance;
-    }
+//     // Constructor
+//     public BankAccount(int accNo, double initialBalance)
+//     {
+//         accountNo = accNo;
+//         balance = initialBalance;
+//     }
 
-    // Deposit using ref
-    public void Deposit(ref double amount)
-    {
-        balance += amount;
-        Console.WriteLine("Amount Deposited Successfully.");
-    }
+//     // Deposit using ref
+//     public void Deposit(ref double amount)
+//     {
+//         balance += amount;
+//         Console.WriteLine("Amount Deposited Successfully.");
+//     }
 
-    // Deposit using out (method overloading)
-    public void Deposit(string inputAmount, out bool status)
-    {
-        status = double.TryParse(inputAmount, out double amount);
-        if (status && amount > 0)
-        {
-            balance += amount;
-            Console.WriteLine("Amount Deposited Successfully.");
-        }
-        else
-        {
-            Console.WriteLine("Invalid deposit amount.");
-        }
-    }
+//     // Deposit using out (method overloading)
+//     public void Deposit(string inputAmount, out bool status)
+//     {
+//         status = double.TryParse(inputAmount, out double amount);
+//         if (status && amount > 0)
+//         {
+//             balance += amount;
+//             Console.WriteLine("Amount Deposited Successfully.");
+//         }
+//         else
+//         {
+//             Console.WriteLine("Invalid deposit amount.");
+//         }
+//     }
 
-    public void Withdraw(double amount)
-    {
-        if (amount <= balance && amount > 0)
-        {
-            balance -= amount;
-            Console.WriteLine("Withdrawal Successful.");
-        }
-        else
-        {
-            Console.WriteLine("Insufficient balance or invalid amount.");
-        }
-    }
+//     public void Withdraw(double amount)
+//     {
+//         if (amount <= balance && amount > 0)
+//         {
+//             balance -= amount;
+//             Console.WriteLine("Withdrawal Successful.");
+//         }
+//         else
+//         {
+//             Console.WriteLine("Insufficient balance or invalid amount.");
+//         }
+//     }
 
-    public void Display()
-    {
-        Console.WriteLine("Bank Name   : " + BankName);
-        Console.WriteLine("Account No : " + accountNo);
-        Console.WriteLine("Balance    : " + balance);
-    }
-}
+//     public void Display()
+//     {
+//         Console.WriteLine("Bank Name   : " + BankName);
+//         Console.WriteLine("Account No : " + accountNo);
+//         Console.WriteLine("Balance    : " + balance);
+//     }
+// }
 
-class Program
-{
-    static void Main()
-    {
-        Console.Write("Enter Account Number: ");
-        int accNo = int.Parse(Console.ReadLine()!);
+// class Program
+// {
+//     static void Main()
+//     {
+//         Console.Write("Enter Account Number: ");
+//         int accNo = int.Parse(Console.ReadLine()!);
 
-        Console.Write("Enter Initial Balance: ");
-        double initialBalance = double.Parse(Console.ReadLine()!);
+//         Console.Write("Enter Initial Balance: ");
+//         double initialBalance = double.Parse(Console.ReadLine()!);
 
-        BankAccount account = new BankAccount(accNo, initialBalance);
+//         BankAccount account = new BankAccount(accNo, initialBalance);
 
-        int choice;
-        do
-        {
-            Console.WriteLine("\n1. Deposit");
-            Console.WriteLine("2. Withdraw");
-            Console.WriteLine("3. Display Balance");
-            Console.WriteLine("4. Exit");
-            Console.Write("Enter choice: ");
-            int.TryParse(Console.ReadLine(), out choice);
+//         int choice;
+//         do
+//         {
+//             Console.WriteLine("\n1. Deposit");
+//             Console.WriteLine("2. Withdraw");
+//             Console.WriteLine("3. Display Balance");
+//             Console.WriteLine("4. Exit");
+//             Console.Write("Enter choice: ");
+//             int.TryParse(Console.ReadLine(), out choice);
 
-            switch (choice)
-            {
-                case 1:
-                    Console.Write("Enter amount to deposit: ");
-                    string depAmount = Console.ReadLine()!;
-                    account.Deposit(depAmount, out bool success);
-                    break;
+//             switch (choice)
+//             {
+//                 case 1:
+//                     Console.Write("Enter amount to deposit: ");
+//                     string depAmount = Console.ReadLine()!;
+//                     account.Deposit(depAmount, out bool success);
+//                     break;
 
-                case 2:
-                    Console.Write("Enter amount to withdraw: ");
-                    double.TryParse(Console.ReadLine(), out double wAmount);
-                    account.Withdraw(wAmount);
-                    break;
+//                 case 2:
+//                     Console.Write("Enter amount to withdraw: ");
+//                     double.TryParse(Console.ReadLine(), out double wAmount);
+//                     account.Withdraw(wAmount);
+//                     break;
 
-                case 3:
-                    account.Display();
-                    break;
+//                 case 3:
+//                     account.Display();
+//                     break;
 
-                case 4:
-                    Console.WriteLine("Thank you!");
-                    break;
+//                 case 4:
+//                     Console.WriteLine("Thank you!");
+//                     break;
 
-                default:
-                    Console.WriteLine("Invalid choice.");
-                    break;
-            }
-        } while (choice != 4);
-    }
-}
+//                 default:
+//                     Console.WriteLine("Invalid choice.");
+//                     break;
+//             }
+//         } while (choice != 4);
+//     }
+// }
+
+// constructor
+
+
