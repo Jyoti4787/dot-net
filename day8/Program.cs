@@ -499,18 +499,19 @@ class Program
             {
                 prices[i]=0;
             }
-            int oldSize=prices.Length;
-            Array.Resize(ref prices, oldSize+5);
-            for(int z = oldSize; z < prices.Length; z++)
-            {
-                prices[z]=(int) averagePrice;
-            }
+        }
 
-            Console.WriteLine("Final product price array: ");
-            for(int z = 0; z < prices.Length; z++)
-            {
-                Console.WriteLine($"Index {z}: {prices[z]}");
-            }
+        int oldSize=prices.Length;
+        Array.Resize(ref prices, oldSize+5);
+        for(int z = oldSize; z < prices.Length; z++)
+        {
+            prices[z]=(int) averagePrice;
+        }
+
+        Console.WriteLine("Final product price array: ");
+        for(int z = 0; z < prices.Length; z++)
+        {
+            Console.WriteLine($"Index {z}: {prices[z]}");
         }  
             //Task2
             Console.WriteLine("Task2: Branch Sales Analysis");
