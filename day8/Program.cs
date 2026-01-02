@@ -321,7 +321,7 @@
 //     public static void RecalculateProfitLoss()
 //     {
 //         if (!HasLastTransaction || LastTransaction == null)
-//         {
+//         {LogProcessing
 //             Console.WriteLine("No transaction available. Please create a new transaction first.");
 //             return;
 //         }
