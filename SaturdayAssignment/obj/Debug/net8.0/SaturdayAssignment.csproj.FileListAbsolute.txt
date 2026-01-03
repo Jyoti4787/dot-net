@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/bin/Debug/net8.0/SaturdayAssignment
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/bin/Debug/net8.0/SaturdayAssignment.deps.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/bin/Debug/net8.0/SaturdayAssignment.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/bin/Debug/net8.0/SaturdayAssignment.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/bin/Debug/net8.0/SaturdayAssignment.pdb
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/refint/SaturdayAssignment.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.pdb
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/SaturdayAssignment.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/obj/Debug/net8.0/ref/SaturdayAssignment.dll
