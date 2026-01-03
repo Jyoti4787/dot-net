@@ -301,40 +301,27 @@ class Program
     {
         Console.WriteLine("Hospital Name: " + HospitalConfig.HospitalName);
 
-        Patient patient = new Patient(1, "Kishan", 24);
-        patient.SetMedicalHistory("No allergies");
+        Cardiologist cardiologist = new Cardiologist(
+            "Dr Mehta",
+            "LIC-99999",
+            15
+        );
 
-        Doctor doctor = new Doctor("Dr Sharma", "Cardiologist", "LIC-12345");
+        Console.WriteLine("Total Doctors (via child class): " + Cardiologist.TotalDoctors);
 
-        Appointment appointment = new Appointment();
-        appointment.ScheduleAppointment(patient.Name);
-        appointment.ScheduleAppointment(patient.Name, DateTime.Now);
-        appointment.ScheduleAppointment(patient.Name, DateTime.Now, "Online");
+        Console.WriteLine("Doctor Name: " + cardiologist.Name);
+        Console.WriteLine("Specialization: " + cardiologist.Specialization);
+        Console.WriteLine("License Number: " + cardiologist.LicenseNumber);
+        Console.WriteLine("Experience Years: " + cardiologist.ExperienceYears);
 
-        int age = patient.Age;
-        string condition = "Unknown";
-        string risk;
+        Doctor d2 = new Doctor("Dr Sharma", "Physician", "LIC-12345");
 
-        DiagnosisService ds = new DiagnosisService();
-        ds.Evaluate(in age, ref condition, out risk, 80, 90, 70);
-
-        Console.WriteLine($"Condition: {condition}");
-        Console.WriteLine($"Risk Level: {risk}");
-
-        BillingService bill = new BillingService
-        {
-            ConsultationFee = 500,
-            TestCharges = 1200,
-            RoomCharges = 3000
-        };
-
-        Console.WriteLine("Total Bill: " + bill.CalculateTotal());
-        Console.WriteLine("Hospital Stay Days: " + TotalDays(5));
-    }
-
-    static int TotalDays(int day)
-    {
-        if (day == 0) return 0;
-        return 1 + TotalDays(day - 1);
+        Console.WriteLine("Updated Total Doctors (via child class): "
+            + Cardiologist.TotalDoctors);
     }
 }
+
+//static member: cardiolosit.TotalDoctors
+//non static members: cardiologist.Name
+//cardiologist.Specialization
+
