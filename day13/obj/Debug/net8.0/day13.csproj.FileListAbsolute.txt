@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/day13/bin/Debug/net8.0/day13
+/home/vairagi/Desktop/New Folder/dot net/day13/bin/Debug/net8.0/day13.deps.json
+/home/vairagi/Desktop/New Folder/dot net/day13/bin/Debug/net8.0/day13.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/day13/bin/Debug/net8.0/day13.dll
+/home/vairagi/Desktop/New Folder/dot net/day13/bin/Debug/net8.0/day13.pdb
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.dll
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/refint/day13.dll
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.pdb
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/day13.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/day13/obj/Debug/net8.0/ref/day13.dll
