@@ -237,59 +237,189 @@
 //     }
 // }
 
+// using System;
+// using System.Threading;
+
+// namespace CallbackDemo
+// {
+//     // STEP 1: Define the Delegate
+//     public delegate void DownloadFinishedHandler(string fileName);
+//     //When download finishes, I’ll call a method that takes a file name.
+
+//     class FileDownloader
+//     {
+//         // STEP 2: Method that accepts the callback
+//         public void DownloadFile(string name, DownloadFinishedHandler callback)
+//         //string name → File to download. DownloadFinishedHandler callback → Method to call after download. This is callback injection
+//         {
+//             Console.WriteLine($"Starting download: {name}...");
+            
+//             // Simulating work
+//             Thread.Sleep(2000); //is used to simulate a long-running task. 
+//             //Blocks the current thread (synchronous simulation)
+            
+//             Console.WriteLine($"{name} download complete.");
+
+//             // STEP 3: Execute the Callback
+//             if (callback != null)//Safety check
+//             {
+//                 callback(name); //Invokes the callback method
+//             }
+//             //This is callback invocation
+//         }
+//     }
+
+//     class Program //Provides the callback logic. //Completely independent of FileDownloader
+//     {
+//         // STEP 4: The actual Callback Method
+//         static void DisplayNotification(string file) //It is called indirectly via delegate
+//         {
+//             Console.WriteLine($"NOTIFICATION: You can now open {file}.");
+//             //Executes when callback is triggered
+//         }
+
+//         static void Main()
+//         {
+//             FileDownloader downloader = new FileDownloader();
+//             //Creates the worker object
+
+//             // Pass the method 'DisplayNotification' as a callback
+
+//             downloader.DownloadFile("Presentation.pdf", DisplayNotification);
+//             //DisplayNotification is passed as a method reference
+//             //DownloadFile runs
+//             //After completion, callback is executed
+//         }
+//     }
+// }
+
+
+//Ecommerce
 using System;
-using System.Threading;
+using System.Collections.Generic;
 
-namespace CallbackDemo
+namespace EcommerceAssessment
 {
-    // STEP 1: Define the Delegate
-    public delegate void DownloadFinishedHandler(string fileName);
-    //When download finishes, I’ll call a method that takes a file name.
-
-    class FileDownloader
+    // GENERIC REPOSITORY
+    class Repository<T>
     {
-        // STEP 2: Method that accepts the callback
-        public void DownloadFile(string name, DownloadFinishedHandler callback)
-        //string name → File to download. DownloadFinishedHandler callback → Method to call after download. This is callback injection
-        {
-            Console.WriteLine($"Starting download: {name}...");
-            
-            // Simulating work
-            Thread.Sleep(2000); //is used to simulate a long-running task. 
-            //Blocks the current thread (synchronous simulation)
-            
-            Console.WriteLine($"{name} download complete.");
+        private List<T> items = new List<T>();
 
-            // STEP 3: Execute the Callback
-            if (callback != null)//Safety check
-            {
-                callback(name); //Invokes the callback method
-            }
-            //This is callback invocation
+        public void Add(T item)
+        {
+            items.Add(item);
+        }
+
+        public List<T> GetAll()
+        {
+            return items;
         }
     }
 
-    class Program //Provides the callback logic. //Completely independent of FileDownloader
+    // ORDER MODEL
+    class Order
     {
-        // STEP 4: The actual Callback Method
-        static void DisplayNotification(string file) //It is called indirectly via delegate
+        public int OrderId { get; set; }
+        public string? CustomerName { get; set; }
+        public double Amount { get; set; }
+
+        public override string ToString()
         {
-            Console.WriteLine($"NOTIFICATION: You can now open {file}.");
-            //Executes when callback is triggered
+            return $"Order Id: {OrderId}, Customer: {CustomerName}, Amount: {Amount}";
         }
+    }
 
-        static void Main()
+    // DELEGATE
+    public delegate void OrderCallback(string message);
+
+    // ORDER PROCESSOR WITH EVENT
+    class OrderProcessor
+    {
+        public event Action<string>? OrderProcessed;
+
+        public void ProcessOrder(
+            Order order,
+            Func<double, double> taxCalculator,
+            Func<double, double> discountCalculator,
+            Predicate<Order> validator,
+            OrderCallback callback)
         {
-            FileDownloader downloader = new FileDownloader();
-            //Creates the worker object
+            if (!validator(order))
+            {
+                callback("Order validation failed");
+                return;
+            }
 
-            // Pass the method 'DisplayNotification' as a callback
+            double tax = taxCalculator(order.Amount);
+            double discount = discountCalculator(order.Amount);
 
-            downloader.DownloadFile("Presentation.pdf", DisplayNotification);
-            //DisplayNotification is passed as a method reference
-            //DownloadFile runs
-            //After completion, callback is executed
+            order.Amount = order.Amount + tax - discount;
+
+            callback($"Order {order.OrderId} processed successfully");
+            OrderProcessed?.Invoke($"Event on Order {order.OrderId} completed");
+        }
+    }
+
+    // CALLER CLASS
+    class EcommerceOrderCaller
+    {
+        public static void EcommerceOutput()
+        {
+            Repository<Order> orderRepo = new Repository<Order>();
+
+            orderRepo.Add(new Order { OrderId = 1, CustomerName = "Jyoti", Amount = 5000 });
+            orderRepo.Add(new Order { OrderId = 2, CustomerName = "Rudra", Amount = 2000 });
+            orderRepo.Add(new Order { OrderId = 3, CustomerName = "Ujjwal", Amount = 3000 });
+
+            Func<double, double> taxCalculator = amount => amount * 0.18;
+            Func<double, double> discountCalculator = amount => amount * 0.05;
+
+            Predicate<Order> validator = order => order.Amount >= 3000;
+
+            OrderCallback callback = message =>
+                Console.WriteLine($"Callback : {message}");
+
+            Action<string> logger = message =>
+                Console.WriteLine($"Logger : {message}");
+
+            Action<string> notifier = message =>
+                Console.WriteLine($"Notifier : {message}");
+
+            OrderProcessor processor = new OrderProcessor();
+            processor.OrderProcessed += logger;
+            processor.OrderProcessed += notifier;
+
+            foreach (var order in orderRepo.GetAll())
+            {
+                processor.ProcessOrder(
+                    order,
+                    taxCalculator,
+                    discountCalculator,
+                    validator,
+                    callback
+                );
+                Console.WriteLine();
+            }
+
+            List<Order> orders = orderRepo.GetAll();
+            orders.Sort((o1, o2) => o2.Amount.CompareTo(o1.Amount));
+
+            Console.WriteLine("Sorted Orders in Descending Amount");
+            foreach (var order in orders)
+            {
+                Console.WriteLine(order);
+            }
+        }
+    }
+
+    // PROGRAM ENTRY POINT
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            EcommerceOrderCaller.EcommerceOutput();
         }
     }
 }
+
 
