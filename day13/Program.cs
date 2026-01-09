@@ -422,4 +422,10 @@ namespace EcommerceAssessment
     }
 }
 
+// Generics (Repository<T>)
+
+// Delegates (OrderCallback)
+
+// Events (OrderProcessed)
+
 

@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/bin/Debug/net8.0/studentscholarship
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/bin/Debug/net8.0/studentscholarship.deps.json
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/bin/Debug/net8.0/studentscholarship.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/bin/Debug/net8.0/studentscholarship.dll
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/bin/Debug/net8.0/studentscholarship.pdb
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.dll
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/refint/studentscholarship.dll
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.pdb
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/studentscholarship.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/studentscholarship/obj/Debug/net8.0/ref/studentscholarship.dll
