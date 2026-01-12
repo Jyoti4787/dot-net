@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/bin/Debug/net8.0/SugarBlissBakery
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/bin/Debug/net8.0/SugarBlissBakery.deps.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/bin/Debug/net8.0/SugarBlissBakery.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/bin/Debug/net8.0/SugarBlissBakery.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/bin/Debug/net8.0/SugarBlissBakery.pdb
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/refint/SugarBlissBakery.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.pdb
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/SugarBlissBakery.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/SugarBlissBakery/obj/Debug/net8.0/ref/SugarBlissBakery.dll

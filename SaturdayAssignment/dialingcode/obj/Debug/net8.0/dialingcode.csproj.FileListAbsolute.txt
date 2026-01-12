@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/bin/Debug/net8.0/dialingcode
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/bin/Debug/net8.0/dialingcode.deps.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/bin/Debug/net8.0/dialingcode.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/bin/Debug/net8.0/dialingcode.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/bin/Debug/net8.0/dialingcode.pdb
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/refint/dialingcode.dll
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.pdb
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/dialingcode.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/SaturdayAssignment/dialingcode/obj/Debug/net8.0/ref/dialingcode.dll
