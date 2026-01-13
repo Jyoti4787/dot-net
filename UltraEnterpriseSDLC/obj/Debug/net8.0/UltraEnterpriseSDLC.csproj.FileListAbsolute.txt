@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/bin/Debug/net8.0/UltraEnterpriseSDLC
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/bin/Debug/net8.0/UltraEnterpriseSDLC.deps.json
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/bin/Debug/net8.0/UltraEnterpriseSDLC.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/bin/Debug/net8.0/UltraEnterpriseSDLC.dll
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/bin/Debug/net8.0/UltraEnterpriseSDLC.pdb
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.dll
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/refint/UltraEnterpriseSDLC.dll
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.pdb
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/UltraEnterpriseSDLC.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/UltraEnterpriseSDLC/obj/Debug/net8.0/ref/UltraEnterpriseSDLC.dll
