@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/bin/Debug/net8.0/MiniSocialMedia
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/bin/Debug/net8.0/MiniSocialMedia.deps.json
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/bin/Debug/net8.0/MiniSocialMedia.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/bin/Debug/net8.0/MiniSocialMedia.dll
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/bin/Debug/net8.0/MiniSocialMedia.pdb
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.dll
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/refint/MiniSocialMedia.dll
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.pdb
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/MiniSocialMedia.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/MiniSocialMedia/obj/Debug/net8.0/ref/MiniSocialMedia.dll
