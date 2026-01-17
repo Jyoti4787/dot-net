@@ -143,14 +143,24 @@ namespace MiniSocialMedia
         {
             try
             {
+                // 1. Convert user data into JSON string
                 var json = JsonSerializer.Serialize(_users.GetAll());
+
+                // 2. Save JSON into file
                 File.WriteAllText(_dataFile, json);
-            }
-            catch (Exception ex)
-            {
-                LogError(ex);
+
+                // 3. PRINT JSON IN TERMINAL (
+                Console.WriteLine("\n----- JSON DATA SAVED -----");
+                Console.WriteLine(json);
+                Console.WriteLine("---------------------------\n");
+                }
+                catch (Exception ex)
+                {
+                    // Log any error that occurs during saving
+                    LogError(ex);
             }
         }
+
 
         static void LoadData()
         {
@@ -180,3 +190,15 @@ namespace MiniSocialMedia
         }
     }
 }
+
+// MiniSocialMedia
+// 
+//  SocialException.cs
+//  IPostable.cs
+//  Post.cs
+//  User.cs
+//  User.Partial.cs
+//  Repository.cs
+//  SocialUtils.cs
+// UserExtensions.cs
+// Program.cs

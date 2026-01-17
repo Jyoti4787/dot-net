@@ -1,14 +1,15 @@
+//ipostable
 using System.Collections.Generic;
-
 namespace MiniSocialMedia
 {
-    // Interface that enforces posting behavior
+    //interface defining posting capability
     public interface IPostable
     {
-        // Adds a new post
+        //method to add a new post
         void AddPost(string content);
 
-        // Returns posts in read-only form
+        //method to retreive post in read only form
         IReadOnlyList<Post> GetPosts();
     }
 }
+
