@@ -1,0 +1,12 @@
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/bin/Debug/net8.0/CalculatorLib.deps.json
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/bin/Debug/net8.0/CalculatorLib.dll
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/bin/Debug/net8.0/CalculatorLib.pdb
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/CalculatorLib.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/CalculatorLib.dll
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/refint/CalculatorLib.dll
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/CalculatorLib.pdb
+/home/vairagi/Desktop/New Folder/dot net/CalculatorLib/obj/Debug/net8.0/ref/CalculatorLib.dll

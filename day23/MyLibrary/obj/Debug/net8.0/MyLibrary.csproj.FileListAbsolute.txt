@@ -1,0 +1,12 @@
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/bin/Debug/net8.0/MyLibrary.deps.json
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/bin/Debug/net8.0/MyLibrary.dll
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/bin/Debug/net8.0/MyLibrary.pdb
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/MyLibrary.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/MyLibrary.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/MyLibrary.dll
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/refint/MyLibrary.dll
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/MyLibrary.pdb
+/home/vairagi/Desktop/New Folder/dot net/day23/MyLibrary/obj/Debug/net8.0/ref/MyLibrary.dll
