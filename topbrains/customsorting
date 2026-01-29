@@ -1,0 +1,22 @@
+using System.Collections.Generic;
+
+namespace CustomSortingExample
+{
+    public class Student
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public int Marks { get; set; }
+    }
+    public class StudentComparer : IComparer<Student>
+
+    {
+        public int Compare(Student x, Student y)
+        {
+            int marksComparison = y.Marks.CompareTo(x.Marks);
+            if (marksComparison != 0)
+                return marksComparison;
+            return x.Age.CompareTo(y.Age);
+        }
+    }
+}
