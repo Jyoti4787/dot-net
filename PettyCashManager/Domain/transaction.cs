@@ -12,7 +12,7 @@ namespace PettyCashManager.Domain
         public decimal Amount{get; protected set; }
 
         //date of the transaction
-        public DateTime Data{get; protected set; }
+        public DateTime Date{get; protected set; }
 
         //reason for the transaction
         public string Narration{get; protected set; }
@@ -26,10 +26,10 @@ namespace PettyCashManager.Domain
         //Protected constructor ensures only derived classes can create transactions 
         protected Transaction(decimal amount, DateTime date, string narration, string createdBy)
         {
-            Amount=amount;
-            Date=date;
-            Narration=narration;
-            CreatedBy=createdBy;
+            Amount = amount;
+            Date = date;
+            Narration = narration;
+            CreatedBy = createdBy;
         }
 
         // Every transaction must support approval

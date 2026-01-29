@@ -11,10 +11,10 @@ namespace PettyCashManager.Domain
         public Role Role{ get; }
 
         // Protected constructor ensures only derived classes can create users
-        protected User(string Name,Role role)
+        protected User(string name, Role role)
         {
-            Name=name;
-            Role=role;
+            Name = name;
+            Role = role;
         }
 
     }

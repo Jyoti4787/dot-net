@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/bin/Debug/net8.0/PettyCashManager
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/bin/Debug/net8.0/PettyCashManager.deps.json
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/bin/Debug/net8.0/PettyCashManager.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/bin/Debug/net8.0/PettyCashManager.dll
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/bin/Debug/net8.0/PettyCashManager.pdb
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.dll
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/refint/PettyCashManager.dll
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.pdb
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/PettyCashManager.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/PettyCashManager/obj/Debug/net8.0/ref/PettyCashManager.dll

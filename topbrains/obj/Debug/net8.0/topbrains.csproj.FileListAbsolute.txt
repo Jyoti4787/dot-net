@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/topbrains/bin/Debug/net8.0/topbrains
+/home/vairagi/Desktop/New Folder/dot net/topbrains/bin/Debug/net8.0/topbrains.deps.json
+/home/vairagi/Desktop/New Folder/dot net/topbrains/bin/Debug/net8.0/topbrains.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/topbrains/bin/Debug/net8.0/topbrains.dll
+/home/vairagi/Desktop/New Folder/dot net/topbrains/bin/Debug/net8.0/topbrains.pdb
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.dll
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/refint/topbrains.dll
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.pdb
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/topbrains.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/topbrains/obj/Debug/net8.0/ref/topbrains.dll
