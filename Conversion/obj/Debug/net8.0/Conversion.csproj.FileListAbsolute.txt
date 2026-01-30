@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/Conversion/bin/Debug/net8.0/Conversion
+/home/vairagi/Desktop/New Folder/dot net/Conversion/bin/Debug/net8.0/Conversion.deps.json
+/home/vairagi/Desktop/New Folder/dot net/Conversion/bin/Debug/net8.0/Conversion.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/Conversion/bin/Debug/net8.0/Conversion.dll
+/home/vairagi/Desktop/New Folder/dot net/Conversion/bin/Debug/net8.0/Conversion.pdb
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.dll
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/refint/Conversion.dll
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.pdb
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/Conversion.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/Conversion/obj/Debug/net8.0/ref/Conversion.dll

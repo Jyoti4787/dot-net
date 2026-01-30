@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/bin/Debug/net8.0/LargestInteger
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/bin/Debug/net8.0/LargestInteger.deps.json
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/bin/Debug/net8.0/LargestInteger.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/bin/Debug/net8.0/LargestInteger.dll
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/bin/Debug/net8.0/LargestInteger.pdb
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.dll
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/refint/LargestInteger.dll
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.pdb
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/LargestInteger.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/LargestInteger/obj/Debug/net8.0/ref/LargestInteger.dll

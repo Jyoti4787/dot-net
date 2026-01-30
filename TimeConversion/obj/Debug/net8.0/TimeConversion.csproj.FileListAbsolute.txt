@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/bin/Debug/net8.0/TimeConversion
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/bin/Debug/net8.0/TimeConversion.deps.json
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/bin/Debug/net8.0/TimeConversion.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/bin/Debug/net8.0/TimeConversion.dll
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/bin/Debug/net8.0/TimeConversion.pdb
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.dll
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/refint/TimeConversion.dll
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.pdb
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/TimeConversion.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/TimeConversion/obj/Debug/net8.0/ref/TimeConversion.dll
