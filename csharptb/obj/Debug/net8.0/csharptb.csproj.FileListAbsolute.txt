@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/csharptb/bin/Debug/net8.0/csharptb
+/home/vairagi/Desktop/New Folder/dot net/csharptb/bin/Debug/net8.0/csharptb.deps.json
+/home/vairagi/Desktop/New Folder/dot net/csharptb/bin/Debug/net8.0/csharptb.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/csharptb/bin/Debug/net8.0/csharptb.dll
+/home/vairagi/Desktop/New Folder/dot net/csharptb/bin/Debug/net8.0/csharptb.pdb
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.dll
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/refint/csharptb.dll
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.pdb
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/csharptb.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/csharptb/obj/Debug/net8.0/ref/csharptb.dll
