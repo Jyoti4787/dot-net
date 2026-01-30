@@ -16,10 +16,22 @@ public class Solution
     {
         string input = Console.ReadLine();
 
-        if (int.TryParse(input, out int heightCm))
+        if (string.IsNullOrWhiteSpace(input))
+        {
+            Console.WriteLine("Invalid Input");
+            return;
+        }
+
+        input = input.Trim();
+
+        if (int.TryParse(input, out int heightCm) && heightCm >= 0)
         {
             string category = GetHeightCategory(heightCm);
             Console.WriteLine(category);
+        }
+        else
+        {
+            Console.WriteLine("Invalid Input");
         }
     }
 }

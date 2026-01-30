@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vairagi/Desktop/New Folder/dot net/DisplayString/DisplayString.csproj": {}
+    "/home/vairagi/Desktop/New Folder/dot net/InventoryNameCleanup/InventoryNameCleanup.csproj": {}
   },
   "projects": {
-    "/home/vairagi/Desktop/New Folder/dot net/DisplayString/DisplayString.csproj": {
+    "/home/vairagi/Desktop/New Folder/dot net/InventoryNameCleanup/InventoryNameCleanup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vairagi/Desktop/New Folder/dot net/DisplayString/DisplayString.csproj",
-        "projectName": "DisplayString",
-        "projectPath": "/home/vairagi/Desktop/New Folder/dot net/DisplayString/DisplayString.csproj",
+        "projectUniqueName": "/home/vairagi/Desktop/New Folder/dot net/InventoryNameCleanup/InventoryNameCleanup.csproj",
+        "projectName": "InventoryNameCleanup",
+        "projectPath": "/home/vairagi/Desktop/New Folder/dot net/InventoryNameCleanup/InventoryNameCleanup.csproj",
         "packagesPath": "/home/vairagi/.nuget/packages/",
-        "outputPath": "/home/vairagi/Desktop/New Folder/dot net/DisplayString/obj/",
+        "outputPath": "/home/vairagi/Desktop/New Folder/dot net/InventoryNameCleanup/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vairagi/.nuget/NuGet/NuGet.Config"
