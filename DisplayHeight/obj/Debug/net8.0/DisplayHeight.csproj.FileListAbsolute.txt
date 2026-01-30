@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/bin/Debug/net8.0/DisplayHeight
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/bin/Debug/net8.0/DisplayHeight.deps.json
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/bin/Debug/net8.0/DisplayHeight.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/bin/Debug/net8.0/DisplayHeight.dll
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/bin/Debug/net8.0/DisplayHeight.pdb
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.dll
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/refint/DisplayHeight.dll
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.pdb
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/DisplayHeight.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/DisplayHeight/obj/Debug/net8.0/ref/DisplayHeight.dll
