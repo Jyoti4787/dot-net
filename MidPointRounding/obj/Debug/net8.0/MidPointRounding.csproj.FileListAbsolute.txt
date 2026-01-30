@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/bin/Debug/net8.0/MidPointRounding
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/bin/Debug/net8.0/MidPointRounding.deps.json
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/bin/Debug/net8.0/MidPointRounding.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/bin/Debug/net8.0/MidPointRounding.dll
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/bin/Debug/net8.0/MidPointRounding.pdb
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.dll
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/refint/MidPointRounding.dll
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.pdb
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/MidPointRounding.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/MidPointRounding/obj/Debug/net8.0/ref/MidPointRounding.dll
