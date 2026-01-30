@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/swapping/bin/Debug/net8.0/swapping
+/home/vairagi/Desktop/New Folder/dot net/swapping/bin/Debug/net8.0/swapping.deps.json
+/home/vairagi/Desktop/New Folder/dot net/swapping/bin/Debug/net8.0/swapping.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/swapping/bin/Debug/net8.0/swapping.dll
+/home/vairagi/Desktop/New Folder/dot net/swapping/bin/Debug/net8.0/swapping.pdb
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.dll
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/refint/swapping.dll
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.pdb
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/swapping.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/swapping/obj/Debug/net8.0/ref/swapping.dll
