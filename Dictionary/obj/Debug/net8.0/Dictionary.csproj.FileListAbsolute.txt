@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/bin/Debug/net8.0/Dictionary
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/bin/Debug/net8.0/Dictionary.deps.json
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/bin/Debug/net8.0/Dictionary.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/bin/Debug/net8.0/Dictionary.dll
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/bin/Debug/net8.0/Dictionary.pdb
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.dll
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/refint/Dictionary.dll
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.pdb
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/Dictionary.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/Dictionary/obj/Debug/net8.0/ref/Dictionary.dll
