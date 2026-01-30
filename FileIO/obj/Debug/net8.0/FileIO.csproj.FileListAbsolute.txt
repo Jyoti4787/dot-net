@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/FileIO/bin/Debug/net8.0/FileIO
+/home/vairagi/Desktop/New Folder/dot net/FileIO/bin/Debug/net8.0/FileIO.deps.json
+/home/vairagi/Desktop/New Folder/dot net/FileIO/bin/Debug/net8.0/FileIO.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/FileIO/bin/Debug/net8.0/FileIO.dll
+/home/vairagi/Desktop/New Folder/dot net/FileIO/bin/Debug/net8.0/FileIO.pdb
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.dll
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/refint/FileIO.dll
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.pdb
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/FileIO.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/FileIO/obj/Debug/net8.0/ref/FileIO.dll
