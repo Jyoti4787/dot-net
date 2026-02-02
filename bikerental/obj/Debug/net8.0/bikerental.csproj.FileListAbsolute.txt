@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/bikerental/bin/Debug/net8.0/bikerental
+/home/vairagi/Desktop/New Folder/dot net/bikerental/bin/Debug/net8.0/bikerental.deps.json
+/home/vairagi/Desktop/New Folder/dot net/bikerental/bin/Debug/net8.0/bikerental.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/bikerental/bin/Debug/net8.0/bikerental.dll
+/home/vairagi/Desktop/New Folder/dot net/bikerental/bin/Debug/net8.0/bikerental.pdb
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.dll
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/refint/bikerental.dll
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.pdb
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/bikerental.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/bikerental/obj/Debug/net8.0/ref/bikerental.dll
