@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/Tests/SumN.Tests/SumN.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/Tests/SumN.Tests/SumN.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/Tests/SumN.Tests/SumN.Tests.csproj",
+        "projectName": "SumN.Tests",
+        "projectPath": "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/Tests/SumN.Tests/SumN.Tests.csproj",
+        "packagesPath": "/home/vairagi/.nuget/packages/",
+        "outputPath": "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/Tests/SumN.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vairagi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/SumN.Core.csproj": {
+                "projectPath": "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/SumN.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/vairagi/.dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/SumN.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/SumN.Core.csproj",
+        "projectName": "SumN.Core",
+        "projectPath": "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/SumN.Core.csproj",
+        "packagesPath": "/home/vairagi/.nuget/packages/",
+        "outputPath": "/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vairagi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/vairagi/.dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

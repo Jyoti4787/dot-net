@@ -1,0 +1,12 @@
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/bin/Debug/net8.0/CalcUnitTesting.Core.deps.json
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/bin/Debug/net8.0/CalcUnitTesting.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/bin/Debug/net8.0/CalcUnitTesting.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/CalcUnitTesting.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/CalcUnitTesting.Core.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/CalcUnitTesting.Core.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/CalcUnitTesting.Core.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/CalcUnitTesting.Core.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/CalcUnitTesting.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/refint/CalcUnitTesting.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/CalcUnitTesting.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/src/CalcUnitTesting.Core/obj/Debug/net8.0/ref/CalcUnitTesting.Core.dll

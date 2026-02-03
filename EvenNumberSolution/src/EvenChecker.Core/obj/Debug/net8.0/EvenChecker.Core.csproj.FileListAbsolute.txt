@@ -1,0 +1,12 @@
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/bin/Debug/net8.0/EvenChecker.Core.deps.json
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/bin/Debug/net8.0/EvenChecker.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/bin/Debug/net8.0/EvenChecker.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/EvenChecker.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/EvenChecker.Core.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/EvenChecker.Core.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/EvenChecker.Core.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/EvenChecker.Core.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/EvenChecker.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/refint/EvenChecker.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/EvenChecker.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/EvenNumberSolution/src/EvenChecker.Core/obj/Debug/net8.0/ref/EvenChecker.Core.dll

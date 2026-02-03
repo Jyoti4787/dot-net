@@ -1,0 +1,12 @@
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/bin/Debug/net8.0/SumN.Core.deps.json
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/bin/Debug/net8.0/SumN.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/bin/Debug/net8.0/SumN.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/SumN.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/SumN.Core.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/SumN.Core.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/SumN.Core.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/SumN.Core.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/SumN.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/refint/SumN.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/SumN.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/SumOfNSolution/src/SumN.Core/obj/Debug/net8.0/ref/SumN.Core.dll

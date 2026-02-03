@@ -1,0 +1,12 @@
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/bin/Debug/net8.0/StringUtil.Core.deps.json
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/bin/Debug/net8.0/StringUtil.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/bin/Debug/net8.0/StringUtil.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/StringUtil.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/StringUtil.Core.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/StringUtil.Core.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/StringUtil.Core.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/StringUtil.Core.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/StringUtil.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/refint/StringUtil.Core.dll
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/StringUtil.Core.pdb
+/home/vairagi/Desktop/New Folder/dot net/ReverseStringSolution/src/StringUtil.Core/obj/Debug/net8.0/ref/StringUtil.Core.dll
