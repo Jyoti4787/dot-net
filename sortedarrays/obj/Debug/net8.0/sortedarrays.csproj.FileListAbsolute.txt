@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/bin/Debug/net8.0/sortedarrays
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/bin/Debug/net8.0/sortedarrays.deps.json
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/bin/Debug/net8.0/sortedarrays.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/bin/Debug/net8.0/sortedarrays.dll
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/bin/Debug/net8.0/sortedarrays.pdb
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.dll
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/refint/sortedarrays.dll
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.pdb
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/sortedarrays.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/Debug/net8.0/ref/sortedarrays.dll

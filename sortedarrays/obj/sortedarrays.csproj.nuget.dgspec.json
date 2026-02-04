@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vairagi/Desktop/New Folder/dot net/SortedArrays/SortedArrays.csproj": {}
+    "/home/vairagi/Desktop/New Folder/dot net/sortedarrays/sortedarrays.csproj": {}
   },
   "projects": {
-    "/home/vairagi/Desktop/New Folder/dot net/SortedArrays/SortedArrays.csproj": {
+    "/home/vairagi/Desktop/New Folder/dot net/sortedarrays/sortedarrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vairagi/Desktop/New Folder/dot net/SortedArrays/SortedArrays.csproj",
-        "projectName": "SortedArrays",
-        "projectPath": "/home/vairagi/Desktop/New Folder/dot net/SortedArrays/SortedArrays.csproj",
+        "projectUniqueName": "/home/vairagi/Desktop/New Folder/dot net/sortedarrays/sortedarrays.csproj",
+        "projectName": "sortedarrays",
+        "projectPath": "/home/vairagi/Desktop/New Folder/dot net/sortedarrays/sortedarrays.csproj",
         "packagesPath": "/home/vairagi/.nuget/packages/",
-        "outputPath": "/home/vairagi/Desktop/New Folder/dot net/SortedArrays/obj/",
+        "outputPath": "/home/vairagi/Desktop/New Folder/dot net/sortedarrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vairagi/.nuget/NuGet/NuGet.Config"
