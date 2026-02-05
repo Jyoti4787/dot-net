@@ -1,0 +1,15 @@
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.deps.json
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.runtimeconfig.json
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.dll
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.pdb
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.AssemblyInfoInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.AssemblyInfo.cs
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.csproj.CoreCompileInputs.cache
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.sourcelink.json
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.dll
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/refint/ExtensionMethod.dll
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.pdb
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.genruntimeconfig.cache
+/home/vairagi/Desktop/New Folder/dot net/ExtensionMethod/obj/Debug/net8.0/ref/ExtensionMethod.dll
